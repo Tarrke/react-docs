@@ -63,3 +63,7 @@ $ expo init my-app
 $ cd my-app/
 $ npm start
 ```
+
+## References
+
+https://medium.com/@Charles_Stover/create-a-react-native-app-on-an-android-emulator-1c0d94f288ae
