@@ -21,6 +21,12 @@ then
 	PATH="$PATH:$ANDROID_SDK/emulator:$ANDROID_SDK/tools"
 fi
 ```
+3. Install React Native Cli
+sudo npm install -g react-native-cli
+
+4. Install expo-cli
+sudo npm install -g expo-cli
+
 
 ### Managing the AVDs (Android Virtual Devices)
 
@@ -63,6 +69,10 @@ $ expo init my-app
 $ cd my-app/
 $ npm start
 ```
+
+## Run App in AVD
+
+$ react-native run-android
 
 ## References
 
